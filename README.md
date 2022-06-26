@@ -1,5 +1,5 @@
 # Classify_Famous_Places
-This repository classifies images of one of the "50 most famous places" from https://www.listchallenges.com/top-250-famous-attractions-in-the-world/list/7
+This repository classifies images of one of the "50 most famous places" from https://www.listchallenges.com/top-250-famous-attractions-in-the-world/list/7. Training dataset found at: https://www.kaggle.com/datasets/ilyaryabov/pictures-of-famous-places.
 
 1. Fork repository to Jetson Nano
 2. Move Repository to jetson-inference/python/training/classification/models/
